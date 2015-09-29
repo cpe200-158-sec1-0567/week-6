@@ -6,14 +6,14 @@ from the provided C# source code.
 ## Submission: a written report which contains
 
 1. A class diagram of the original source code
-![570610567](https://www.img.in.th/image/jS1)
+![570610567](http://picture.in.th/id/88a8962a9703b02919d43c391c12c835)
 2. Detail explaination about the identified pattern and all the parcipants
    
 3. Explain how to include "an asian herbivore and an asian carnivore" to the program: 
   - Show the class diagram of the program after including the new requirment.
   - Test the new requirment by modifying the main function and show the result.
   - Show the main function and snippet of C# code that is related to the process.
-![570610567](https://www.img.in.th/image/jSV)
+![570610567](https://www.img.in.th/images/ff982e0b3079faf94e7ae64188e9e138.png)
 
 
 
