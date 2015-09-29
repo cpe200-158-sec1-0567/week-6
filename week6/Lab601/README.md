@@ -14,5 +14,5 @@ from the provided C# source code.
   - Show the main function and snippet of C# code that is related to the process.
 
 
-![570610567](http://www.mx7.com/view2/yD8mNxTO5y0uNGS9)
-![570610567](http://www.mx7.com/view2/yD8mNxTO5kM5wcl5)
+![570610567](https://www.img.in.th/image/jS1)
+![570610567](https://www.img.in.th/image/jSV)
