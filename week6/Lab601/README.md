@@ -6,7 +6,7 @@ from the provided C# source code.
 ## Submission: a written report which contains
 
 1. A class diagram of the original source code
-![570610567](http://picture.in.th/id/88a8962a9703b02919d43c391c12c835)
+![570610567](http://www.mx7.com/view2/yD8mNxTO5y0uNGS9)
 2. Detail explaination about the identified pattern and all the parcipants
    
 3. Explain how to include "an asian herbivore and an asian carnivore" to the program: 
