@@ -13,6 +13,7 @@ from the provided C# source code.
   - Test the new requirment by modifying the main function and show the result.
   - Show the main function and snippet of C# code that is related to the process.
 
+![570610567](<a href="http://www.mx7.com/view2/yD8mNxTO5y0uNGS9" target="_blank"><img border="0" src="http://www.mx7.com/i/b3a/P1B8XH.png" /></a>)
 
 ![570610567](http://www.mx7.com/view2/yD8mNxTO5y0uNGS9)
 ![570610567](http://www.mx7.com/view2/yD8mNxTO5kM5wcl5)
